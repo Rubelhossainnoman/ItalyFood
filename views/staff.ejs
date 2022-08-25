@@ -1,0 +1,39 @@
+<!--////////////////////////////////////Container-->
+<section id="container" class="sub-page">
+	<div class="wrap-container zerogrid">
+		<div class="crumbs">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/staff">Staff</a></li>
+			</ul>
+		</div>
+		<div id="main-content">
+			<div class="wrap-content">
+				<div class="chef">
+					<div class="row">
+
+						<!-- Dynamic Data from ejs -->
+						<% test.forEach(item => { %>
+							<div class="col-1-4">
+								<div class="wrap-col">
+									<div class="zoom-container">
+										<a href="#">
+											<img src="<%= item.image %> " />
+										</a>
+									</div>
+									<h3><%= item.name %> </h3>
+									<ul class="social t-center">
+										<li><a target="_blank" href="<%= item.twitter %> "><i class="fa fa-twitter"></i></a></li>
+										<li><a target="_blank" href="<%= item.facebook %>"><i class="fa fa-facebook"></i></a></li>
+										<li><a target="_blank" href="<%= item.linkedin %>"><i class="fa fa-linkedin"></i></a></li>
+										<li><a target="_blank" href="<%= item.instagram %>"><i class="fa fa-instagram"></i></a></li>
+									</ul>
+								</div>
+							</div>
+						<% }) %>
+					</div>
+				</div>
+			</div>
+		</div> 
+	</div>
+</section>

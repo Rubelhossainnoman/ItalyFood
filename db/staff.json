@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "name" : "Rubel Hasan",
+        "image" : "https://www.betterteam.com/images/betterteam-benefits-of-diversity-in-the-workplace-6000x4000-20201116.jpeg?crop=1:1,smart&width=1200&dpr=2",
+        "twitter" : "https://twitter.com/Rubel___hossain",
+        "facebook" : "https://www.facebook.com/Rubelhossain.Noman/",
+        "linkedin" : "https://www.linkedin.com/in/rubelhossainnoman/",
+        "instagram" : "https://www.instagram.com/rubel_hossain_noman/"
+    },
+    {
+        "id" : 2,
+        "name" : "Abir Hasan",
+        "image" : "https://ggsc.s3.amazonaws.com/images/uploads/What_Makes_a_Workplace_Diversity_Program_Successful.jpg",
+        "twitter" : "https://twitter.com/Rubel___hossain",
+        "facebook" : "https://www.facebook.com/Rubelhossain.Noman/",
+        "linkedin" : "https://www.linkedin.com/in/rubelhossainnoman/",
+        "instagram" : "https://www.instagram.com/rubel_hossain_noman/"
+    },
+    {
+        "id" : 3,
+        "name" : "Shahab Uddin",
+        "image" : "https://previews.123rf.com/images/rawpixel/rawpixel1407/rawpixel140700464/29730757-diverse-group-of-business-people.jpg",
+        "twitter" : "https://twitter.com/Rubel___hossain",
+        "facebook" : "https://www.facebook.com/Rubelhossain.Noman/",
+        "linkedin" : "https://www.linkedin.com/in/rubelhossainnoman/",
+        "instagram" : "https://www.instagram.com/rubel_hossain_noman/"
+    },
+    {
+        "id" : 4,
+        "name" : "Razzak islam",
+        "image" : "https://providers.org/assets/2020/09/group-diverse-business-people_53876-31621.jpg",
+        "twitter" : "https://twitter.com/Rubel___hossain",
+        "facebook" : "https://www.facebook.com/Rubelhossain.Noman/",
+        "linkedin" : "https://www.linkedin.com/in/rubelhossainnoman/",
+        "instagram" : "https://www.instagram.com/rubel_hossain_noman/"
+    },
+    {
+        "id" : 5,
+        "name" : "Raza islam",
+        "image" : "https://d1imjpjik7kc4g.cloudfront.net/images/Diversity-in-the-Legal-World-The-Big-Picture-new.jpg",
+        "twitter" : "https://twitter.com/Rubel___hossain",
+        "facebook" : "https://www.facebook.com/Rubelhossain.Noman/",
+        "linkedin" : "https://www.linkedin.com/in/rubelhossainnoman/",
+        "instagram" : "https://www.instagram.com/rubel_hossain_noman/"
+    },
+    {
+        "id" : 6,
+        "name" : "Shadman islam",
+        "image" : "https://www.gonsergerber.com/wp-content/uploads/Fairly-Diverse-Business-Team-1024x682.jpg",
+        "twitter" : "https://twitter.com/Rubel___hossain",
+        "facebook" : "https://www.facebook.com/Rubelhossain.Noman/",
+        "linkedin" : "https://www.linkedin.com/in/rubelhossainnoman/",
+        "instagram" : "https://www.instagram.com/rubel_hossain_noman/"
+    },
+    {
+        "id" : 7,
+        "name" : "Faisal islam",
+        "image" : "https://st.depositphotos.com/1518767/1390/i/950/depositphotos_13900732-stock-photo-close-up-of-a-business.jpg",
+        "twitter" : "https://twitter.com/Rubel___hossain",
+        "facebook" : "https://www.facebook.com/Rubelhossain.Noman/",
+        "linkedin" : "https://www.linkedin.com/in/rubelhossainnoman/",
+        "instagram" : "https://www.instagram.com/rubel_hossain_noman/"
+    },
+    {
+        "id" : 8,
+        "name" : "Robin islam",
+        "image" : "https://static9.depositphotos.com/1594308/1251/i/950/depositphotos_12510526-stock-photo-strong-team.jpg",
+        "twitter" : "https://twitter.com/Rubel___hossain",
+        "facebook" : "https://www.facebook.com/Rubelhossain.Noman/",
+        "linkedin" : "https://www.linkedin.com/in/rubelhossainnoman/",
+        "instagram" : "https://www.instagram.com/rubel_hossain_noman/"
+    }
+]
